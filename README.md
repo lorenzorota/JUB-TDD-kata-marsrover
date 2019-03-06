@@ -53,7 +53,7 @@ and [jasmine](http://jasmine.github.io/) as test framework.
 
 ## Implementation
 
-It is best to follow the instructions mentioned in ```INSTRUCTIONS.md```.
+In order to configure your environment you should follow the instructions mentioned in [INSTRUCTIONS.md](https://github.com/TudorMaiereanu/JUB-TDD-kata-marsrover/blob/master/INSTRUCTIONS.md).
 
 Recommended approach to solve this kata is by using TDD.
 
