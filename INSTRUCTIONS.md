@@ -35,7 +35,7 @@ npm install --global gulp-cli
 ## Clone repository
 
 ```
-git clone REPOURL (TBD)
+git clone https://github.com/TudorMaiereanu/JUB-TDD-kata-marsrover.git
 ```
 
 ## Enter repo and install required packages
