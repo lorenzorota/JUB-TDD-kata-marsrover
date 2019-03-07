@@ -61,4 +61,4 @@ For each ```*.spec.ts``` file you are supposed to have a ```*.ts``` file contain
 
 ## Way of working
 
-It is advised to implement the classes and methods in the order of the tests' description, as that would guarantee a clean implementation of the functionalities of the project.
+It is advised to implement the classes and methods in the order of the tests' description and also as mentioned in [MILESTONES.md](https://github.com/TudorMaiereanu/JUB-TDD-kata-marsrover/blob/master/MILESTONES.md), as that would guarantee a clean implementation of the functionalities of the project. 
