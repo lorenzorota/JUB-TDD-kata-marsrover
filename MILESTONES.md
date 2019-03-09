@@ -8,7 +8,7 @@ Make sure the repo is configured and ready for implementation.
 
 ## (1) Constructors
 
-Implement the classes:  ```Rover``` and ```Planet```.
+Create the classes:  ```Rover``` and ```Planet```.
 
 ## (2) Getters
 
