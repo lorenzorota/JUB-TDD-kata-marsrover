@@ -8,7 +8,7 @@ In order to set up your environment so that you are able to run the code along w
 
 Linux
 ```
-sudo apt install nodejs
+sudo apt-get install nodejs
 ```
 
 Mac (via brew)
